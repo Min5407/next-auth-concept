@@ -26,7 +26,7 @@ const LoginPage = () => {
         <input id="password" name="password" type="password" />
       </div>
       <button type="submit" className="p-1 border border-slate-500 rounded ">
-        Sign Up
+        Log in
       </button>
     </form>
   );
